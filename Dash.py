@@ -46,7 +46,7 @@ def update_temperature_day_indicator(col_chosen, selected_date):
     filtered_df = df[df['дата'] == selected_date]  # Фильтруем данные по выбранному периоду
     avg_temperature_day = filtered_df[col_chosen].mean()
     return f'Средняя температура: {avg_temperature_day}'
-
+аыфаыфааыфа
 
 
 # Запуск приложения
