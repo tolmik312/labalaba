@@ -61,3 +61,4 @@ def update_temperature_evening_indicator(col_chosen, selected_date):
 # Запуск приложения
 if __name__ == '__main__':
     app.run_server(debug=True)
+    
